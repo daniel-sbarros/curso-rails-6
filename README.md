@@ -1,0 +1,3 @@
+# README
+
+# CURSO RAILS 6
