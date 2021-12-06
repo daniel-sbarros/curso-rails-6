@@ -1,19 +1,33 @@
-# README.md
+<h1>README.md</h1>
 
-## Arquivos do Curso API com Ruby on Rails 6
+<h2>Arquivos do Curso API com Ruby on Rails 6</h2>
 
-#### Clonar o Projeto
-git clone git@github.com:daniel-sbarros/curso-rails-6.git
-cd curso-rails-6
+<ul>
+    <li>
+        Clonar o Projeto
+        <ol>
+            <li>
+            git clone git@github.com:daniel-sbarros/curso-rails-6.git
+            </li>
+            <li>
+            cd curso-rails-6
+            </li>
+        </ol>
+    </li>
 
-#### Instalar as dependencias do Ruby on Rails
-bundle install
+<li>Instalar as dependencias do Ruby on Rails
+    <ol><li>bundle install</li></ol>
+</li>
 
-#### Instalar as depedencias do Node.js
-yarn install
+<li>Instalar as depedencias do Node.js
+    <ol><li>yarn install</li></ol>
+</li>
 
-#### Criar os bancos de dados
-rails db:create
+<li>Criar os bancos de dados
+    <ol><li>rails db:create</li></ol>
+</li>
 
-#### Criar as tabelas
-rails db:migrate
+<li>Criar as tabelas
+    <ol><li>rails db:migrate</li></ol>
+</li>
+</ul>
